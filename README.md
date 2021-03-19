@@ -9,3 +9,6 @@ Mod menu is based on my old template (August 2020)
 *Taken from random Youtube video, didn't bother testing it, but I know it works like this*
 
 ![](https://i.imgur.com/gHsr5Cx.png)
+
+# Warning
+**DON'T SELL THE SOURCE, DON'T BUY FROM SOMEONE EITHER WHEN YOU CAN GET IT FOR FREE, DON'T GET SCAMMED. SAVE YOU MONEY**
