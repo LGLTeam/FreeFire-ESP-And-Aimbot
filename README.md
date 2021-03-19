@@ -6,6 +6,6 @@ Don't ask me how to use it, instead learn from the internet from Guided Hacking 
 Mod menu is based on my old template (August 2020)
 
 # Screenshot
-*Taken from random Youtube video, didn't bother testing it, but I know it works like this
+*Taken from random Youtube video, didn't bother testing it, but I know it works like this*
 
 ![](https://i.imgur.com/gHsr5Cx.png)
