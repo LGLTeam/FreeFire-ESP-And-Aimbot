@@ -1,5 +1,5 @@
-# Free Fire ESP And Aimbot Mod Menu
-Project was been sent to me by brazilian modders, but I don't care about shitty Free Fire anymore, I will share here publicly
+# Free Fire ESP And Aimbot
+A customized LGL mod menu, containing ESP, aimbot, hooking, and patching codes for Free Fire
 
 Don't ask me how to use it, instead learn from the internet from Guided Hacking and Unknowncheats. Tutorials for PC can still be useful, they work the same, just the code that are slightly different
 
