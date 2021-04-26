@@ -1,8 +1,6 @@
 # Free Fire ESP And Aimbot
 A customized LGL mod menu, containing ESP, aimbot, hooking, and patching codes for Free Fire
 
-Don't ask me how to use it, instead learn from the internet from Guided Hacking and Unknowncheats. Tutorials for PC can still be useful, they work the same, just the code that are slightly different
-
 Mod menu is based on my old template (August 2020)
 
 # Screenshot
@@ -11,4 +9,8 @@ Mod menu is based on my old template (August 2020)
 ![](https://i.imgur.com/gHsr5Cx.png)
 
 # Warning
+**WE SHARE THIS PROJECT FOR EDUCATIONAL PURPOSES ONLY, TO LEARN HOW THIS PROJECT WORKS. WE DO NOT ENCOURAGE YOU TO MOD FREE FIRE OR ANY TENCENT GAMES. DOING SO MAY END YOU UP IN LEGAL TROUBLE. YOU ARE ONLY RESPONSABLE FOR YOUR ACTIONS.**
+
+**WE WILL NEVER OFFER HELP AND SUPPORT WITH THIS PROJECT. DON'T ask how to use it and/or fixing the project, instead learn from the internet or ask for help on any modding community forum sites.**
+
 **DON'T SELL THE SOURCE, DON'T BUY FROM SOMEONE EITHER WHEN YOU CAN GET IT FOR FREE, DON'T GET SCAMMED. SAVE YOU MONEY**
